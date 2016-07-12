@@ -1,0 +1,4 @@
+clock:
+    resource: "@ClockBundle/Resources/config/routing.yml"
+    prefix:   /
+
